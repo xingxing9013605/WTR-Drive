@@ -1,0 +1,12 @@
+# This pre-acceptance package contains documentation and figures only.
+/*
+!/.gitignore
+!/README.md
+!/SHA256SUMS
+!/docs/
+!/assets/
+/docs/*
+!/docs/*.md
+/assets/*
+!/assets/README.md
+!/assets/overview.png
